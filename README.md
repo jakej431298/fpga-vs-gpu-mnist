@@ -13,6 +13,10 @@ I developed a 3-layer multilayer perceptron (MLP) using PyTorch and the MNIST ha
 
 The two implementations were evaluated and compared across inference latency, classification accuracy, power consumption, and energy efficiency.
 
+### Live Research Portfolio
+Interactive charts, 12-week development timeline, and architecture diagrams:
+- **Interactive Portfolio:** [https://silicon-vs-synapse.lovable.app/projects/fpga-vs-gpu](https://silicon-vs-synapse.lovable.app/projects/fpga-vs-gpu)
+
 ### Technologies & Tools
 - **Software & Training:** Python, PyTorch, Google Colab
 - **Hardware Simulation:** Verilog HDL, EDA Playground, ModelSim / Icarus Verilog
@@ -35,7 +39,7 @@ The two implementations were evaluated and compared across inference latency, cl
 - **Classification Accuracy:** 97.2% baseline PyTorch accuracy maintained across fixed-point quantization
 - **Efficiency Takeaway:** For low-power edge inference where high-wattage GPUs are impractical, customized FPGA logic offers orders-of-magnitude lower power consumption.
 
-*Note: GPU benchmarks were measured via Google Colab with background  telemetry threads. FPGA performance and power dissipation were modeled and simulated via EDA Playground based on Xilinx Artix-7 specifications.*
+*Note: GPU benchmarks were measured via Google Colab with background telemetry threads. FPGA performance and power dissipation were modeled and simulated via EDA Playground based on Xilinx Artix-7 specifications.*
 
 ### Limitations & Future Work
 - Physical deployment to a physical Digilent Basys 3 / Nexys A7 FPGA development board
