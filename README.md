@@ -15,7 +15,7 @@ The two implementations were evaluated and compared across inference latency, cl
 
 ### Live Research Portfolio
 Interactive charts, 12-week development timeline, and architecture diagrams:
-- **Interactive Portfolio:** [https://silicon-vs-synapse.lovable.app/projects/fpga-vs-gpu](https://silicon-vs-synapse.lovable.app/projects/fpga-vs-gpu)
+- **Interactive Portfolio:** [https://jakejulius-portfolio.vercel.app/projects/fpga-vs-gpu](https://jakejulius-portfolio.vercel.app/projects/fpga-vs-gpu)
 
 ### Technologies & Tools
 - **Software & Training:** Python, PyTorch, Google Colab
